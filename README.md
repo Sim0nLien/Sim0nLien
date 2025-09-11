@@ -15,6 +15,26 @@
 
 ---
 
+## 🚀 Projects
+
+### 🛠️ Ongoing
+
+- **[HLS SIFT Implementation](https://github.com/Sim0nLien/SIFT_HDL)**: High-Level Synthesis implementation of the SIFT algorithm for hardware acceleration.
+
+
+### ✅ Completed
+
+- **[Graphic-Calculator-on-FPGA](https://github.com/Sim0nLien/Graphic-Calculator-on-FPGA)**: A graphic calculator implemented on an FPGA using VHDL.
+
+<!-- 
+### 📚 Personal Learning
+
+- **[]( -->
+
+
+
+
+
 <!-- a mettre quand cela sera plus glorieux -->
 
 <!-- ## 📊 GitHub Stats
