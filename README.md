@@ -19,7 +19,7 @@
 
 ### 🛠️ Ongoing
 
-- **[HLS SIFT Implementation](https://github.com/Sim0nLien/SIFT_HDL)**: High-Level Synthesis implementation of the SIFT algorithm for hardware acceleration.
+- **[Harris Implementation](https://github.com/Sim0nLien/SIFT_HDL)**: High-Level Synthesis implementation of the Harris detection algorithm for hardware acceleration.
 
 
 ### ✅ Completed
